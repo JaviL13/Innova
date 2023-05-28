@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  planta: MyString
+  campo: one
+  superficei: 1
+
+two:
+  planta: MyString
+  campo: two
+  superficei: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cuidado: one
+  tipo: MyString
+  marca: MyText
+  fecha_aplicacion: 2023-05-27
+
+two:
+  cuidado: two
+  tipo: MyString
+  marca: MyText
+  fecha_aplicacion: 2023-05-27

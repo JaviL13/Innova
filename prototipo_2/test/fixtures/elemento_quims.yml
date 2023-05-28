@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  caractquimica: one
+  elemento: MyText
+  cantidad: 1
+
+two:
+  caractquimica: two
+  elemento: MyText
+  cantidad: 1
